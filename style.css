@@ -1,0 +1,77 @@
+body{
+  background-image: url(../challenge/background.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+  }
+
+.box{
+  width: 58%;
+  height: auto;
+  background:rgba(0, 0, 0, 0.4);
+  margin: auto;
+  border-radius: 20px;
+  padding: 79px;
+
+}
+
+.title{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color:#00dd00;
+}
+
+img{
+  width: 270px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+
+.row-button{
+  background-color:#00dd00 ;
+  height: 40px;
+  text-align: center;
+  padding-top: 17px;
+
+}
+
+  /*option*/
+
+  .nome{
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+  }
+
+  .arrow{
+    color: white;
+  }
+
+  p {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+  #charge-bar{
+    background-color: #f5b453;
+    height:25px;
+    width: 24%;
+    border-radius: 6%;
+  }
+
+  #charge-bar1{
+    background-color: #1ec31e;
+    height:25px;
+    width: 46%;
+    border-radius: 6%;
+  }
+
+  #charge-bar2{
+    background-color: #be4141;
+    height:25px;
+    width: 11%;
+    border-radius: 6%;
+  }
